@@ -1,4 +1,4 @@
-# VBA_Challenge - Data Analysis and Visualization Course
+# 02_VBA_Challenge - Data Analysis and Visualization Course
 # Wall Street Stock Data
 # Function
 This data has just the open close and daily prices for each stock. The Goal was to create VBA functions that could make a yearly change, percent change and total stock volume based on just the daily prices. 
